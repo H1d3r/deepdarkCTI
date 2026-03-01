@@ -939,5 +939,6 @@
 |https://t.me/+vw4JXiA77LsyYzJl|ONLINE|Affiliate Association||
 |https://t.me/+6Ijjx9_a-vUzNGZl|ONLINE|Shiny Montana Exploit||
 |https://t.me/+9Z3fqWfISscxM2E1|ONLINE|Escanors Files||
-|https://t.me/+xKUeFc1nB89hNTM1|Escanors Marketplace||
-|https://t.me/+3ZYKShO-lpM2NTM1|Escanors Official||
+|https://t.me/+xKUeFc1nB89hNTM1|ONLINE|Escanors Marketplace||
+|https://t.me/+3ZYKShO-lpM2NTM1|ONLINE|Escanors Official||
+|https://t.me/+kGfKy9Zl4OsyYzVl|ONLINE|scattered LAPSUS$ hunters part 8||
